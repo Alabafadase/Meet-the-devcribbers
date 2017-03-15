@@ -7,15 +7,8 @@ Devcribbers (2017):
     Veronica O Michael
     Corper Batch B Stream Two 2016
 
-    Fix your details here
     Hollybanj
     GIS/Remote Sensing Analyst
-<<<<<<< HEAD
- 
-    Omotosho David Oluwatobiloba
-    Dylectus
-    Victoria Ascerta!
-=======
     Graduate Research Scientist @ARCSSTE-E
     Author of GIS and Remote Sensing Research Articles
     Collaborator at DevCribbers
@@ -24,4 +17,6 @@ Devcribbers (2017):
     Corper-Shun!
     Fork In The Bag Guy!
     
->>>>>>> f201a198ff6cb8a3db6c6c80cf95eb39984aab4a
+    Omotosho David Oluwatobiloba
+    Dylectus
+    Victoria Ascerta!
